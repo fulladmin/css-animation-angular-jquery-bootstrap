@@ -1,7 +1,7 @@
 nganimate
 =========
 
-140 awesome CSS3 animation classes, compatible with angular.js and natively jQuery.js and bootsrap.js
+140 awesome CSS3 animation classes, compatible with angular and natively jQuery and bootstrap
 
 ***
 Commonly the ngAnimate module provides support for JavaScript, CSS3 transition and CSS3 keyframe animation hooks within existing core and custom directives.
